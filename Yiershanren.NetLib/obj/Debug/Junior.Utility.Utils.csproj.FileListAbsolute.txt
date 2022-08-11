@@ -1,0 +1,5 @@
+D:\资料\框架\JuniorUtility\Utils\obj\Debug\Junior.Utility.Utils.csprojResolveAssemblyReference.cache
+D:\资料\框架\JuniorUtility\Utils\bin\Debug\Junior.Utility.Utils.dll
+D:\资料\框架\JuniorUtility\Utils\bin\Debug\Junior.Utility.Utils.pdb
+D:\资料\框架\JuniorUtility\Utils\obj\Debug\Junior.Utility.Utils.dll
+D:\资料\框架\JuniorUtility\Utils\obj\Debug\Junior.Utility.Utils.pdb
